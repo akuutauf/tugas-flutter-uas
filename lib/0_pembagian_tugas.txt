@@ -1,0 +1,5 @@
+Pembagian Tugas UAS Anggota Kelompok 1 :
+- Avi Julia Rahma (nim) : Desain ERD Database & Pemodelan Database
+- Dhicky Mahesya Tegar Surya Pramana (nim) : Coding Scannner QR Code
+- Taufik Hidayat (362055401019) : Desain Ui Ux, Coding Ui Ux  & Pemodelan Database
+- Teddy Latief Miftahur Rizky (nim) : Desain Ui Ux & Coding Ui Ux
